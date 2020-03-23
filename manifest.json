@@ -3,8 +3,8 @@
   "short_name": "POKJALUH",
   "start_url": "https://pokjaluh.com/",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#C51162",
+  "background_color": "#00b929",
+  "theme_color": "#f7d914",
   "description": "Pokjaluh.com adalah tempat berbagi dan mencari informasi tentang Penyuluh di lingkungan Kementerian Agama.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-OATU_5QUomI/XnjCb4H399I/AAAAAAAAABA/8Faij9i9rLk-fG5HaquM9beO3uC7C_mWACLcBGAsYHQ/s48/Pokjaluh.com.png",
